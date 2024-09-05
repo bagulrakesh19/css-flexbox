@@ -69,6 +69,7 @@ margin: 0px 20px;
     border-radius: 18px;
     width: 100%;
     height: 230px;
+    object-fit: cover;
 }   
 .extension-banner{
     background-color: wheat;
